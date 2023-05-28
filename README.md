@@ -12,7 +12,7 @@ Client: With all major corporations developing original visual studios. Micros
 * Evaluation.
 * Deployment.
 
-**Data and Analysis Overview**
+**Data Analysis Overview**
 
 In this analysis, I will perform an analysis on large data sets containing different types of movies. The data includes many different types of information about each movie, ranging from the release date, the director, the studio, average rating, rating, gross domestic and foreign and many other information obtained from different movie sites, we see this when reading the separate data files. I utilized three different data sources for my analysis in order to have the most comprehensive view of the current movie performance.
 
@@ -22,5 +22,3 @@ I intend to do this analysis on the data sets containing vast movie genres. When
 * The Box Office Mojo Data: This was provided as zipped data in CSV format, with 5 columns and a collection of 3387 movies. The data set was taken from the Box Office website and spanned from 2010-2018. According to the Mojo data, most films were shot at the IFC studio.
 
 I will start my analysis with a descriptive analysis of each data set. This allows me to identify trends in data relevant to what has to be known for a film to be successful. This analysis will be conducted mostly through the review of graphs featuring particular attributes.
-
-  
