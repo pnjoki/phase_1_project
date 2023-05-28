@@ -1,7 +1,9 @@
 # Best perfoming movies analysis
 
 **Author: Paul Gitonga Njoki**
-Client: With all major corporations developing original visual studios. Microsoft wants to join in and has chosen to open a new movie studio, but they don't know anything about virtual video creation. Microsoft has tasked me with determining what steps they want to take in order to enter this field. I was given many data files to evaluate and make recommendations to the head of Microsoft's new movie studio based on my findings in order to succeed in the field of movie development. METHOD: CRISP DM I will be following the CRISP DM process for this task The CRoss Industry Standard Process for Data Mining (CRISP-DM) is a process model that serves as the base for a data science process. It has six sequential phases;
+**Client**: With all major corporations developing original visual studios. Microsoft wants to join in and has chosen to open a new movie studio, but they don't know anything about virtual video creation. Microsoft has tasked me with determining what steps they want to take in order to enter this field. I was given many data files to evaluate and make recommendations to the head of Microsoft's new movie studio based on my findings in order to succeed in the field of movie development.
+
+ **METHOD**: CRISP DM I will be following the CRISP DM process for this task The CRoss Industry Standard Process for Data Mining (CRISP-DM) is a process model that serves as the base for a data science process. It has six sequential phases;
 
 <<<<<<< HEAD
 
